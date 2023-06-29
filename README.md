@@ -40,14 +40,14 @@
 -TTS엔진 적용<br/>
 최유안: 레이아웃 구성<br/>
 
-# 기능 설명
+# 코드 설명
 -인트로 화면: &nbsp; postDelayed 함수를 이용해서 레이아웃 딜레이<br/>
 -MyNotificationService: 상대방의 카카오톡 알림을 받아온다.<br/>
  1.NotificationListenerService()를 상속받아서 구현 한다.<br/>
  2.알림을 받아와서<br/>
  3. intent 와 ACTION_NOTIFICATION_BROADCAST 속성을 이용해서 메인 엑티비트로 전달<br/>
 -MyAccessibilityService: 나와의 채팅을 받아온다.(테스트용)<br/>
--MainActivity: MyNotificationService 나 MyAccessibilityService를 받아와서 알림을 받아와서 tts객체를 이용해서 읽어온다.<br/>
+-MainActivity: MyNotificationService 나 MyAccessibilityService를 받아와서 알림을 받아와서 tts객체를 이용해서 읽어온다. 블루투스 사용을 위해서 Settings.ACTION_BLUETOOTH_SETTINGS 속성 사용<br/>
 # 결과물 
 
 -레이아웃<br/>
