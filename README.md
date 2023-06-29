@@ -25,7 +25,7 @@
 -배속 기능 만들기<br/>
 -블루투스 설정 적용<br/>
 이유경: 레이아웃 구성 및 디자인<br/>
--Logo: $nbsp; <img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/55912475-4a04-452a-b73f-5b110332c016' width='50px' heigth='50px'>
+-Logo: &nbsp; <img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/55912475-4a04-452a-b73f-5b110332c016' width='50px' heigth='50px'>
 
 임건우: 기능 구현<br/>
 -KakaTalk 알림 받아오기<br/>
