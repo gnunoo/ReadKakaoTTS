@@ -25,7 +25,17 @@
 -배속 기능 만들기<br/>
 -블루투스 설정 적용<br/>
 이유경: 레이아웃 구성 및 디자인<br/>
--Logo: &nbsp; <img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/55912475-4a04-452a-b73f-5b110332c016' width='50px' heigth='50px'>
+-Logo: <br/>
+<img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/55912475-4a04-452a-b73f-5b110332c016' width='50px' heigth='50px'> 
+<img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/adf24531-7221-4767-a4d5-e82f443cafca' width='50px' height='50px'>
+<img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/e9a309ff-f6de-4927-8d49-a45fb32f859c' width='50px' height='50px'>
+<img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/39525e1b-6725-47f8-a1c0-983e8ffff2dd' width='50px' height='50px'>
+<img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/778a5854-e6fa-4bd1-a7b7-1c54c96575c7' width='50px' height='50px'>
+<img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/2c7fcfd8-9be9-4e0e-9aff-09eaa2a72b28' width='50px' height='50px'>
+<img src='https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/01bf0d54-858f-4339-9def-222cb06ca480' width='50px' height='50px'>
+
+
+![image](https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/778a5854-e6fa-4bd1-a7b7-1c54c96575c7)
 
 임건우: 기능 구현<br/>
 -KakaTalk 알림 받아오기<br/>
