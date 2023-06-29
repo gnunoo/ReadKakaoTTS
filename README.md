@@ -40,15 +40,22 @@
 -TTS엔진 적용<br/>
 최유안: 레이아웃 구성<br/>
 
-# 소스코드에 대해서 소개를 해야하는데 으ㅡㄸㄲ게 하지??
-
+# 기능 설명
+-인트로 화면: &nbsp; postDelayed 함수를 이용해서 레이아웃 딜레이<br/>
+-MyNotificationService: 상대방의 카카오톡 알림을 받아온다.<br/>
+ 1.NotificationListenerService()를 상속받아서 구현 한다.<br/>
+ 2.알림을 받아와서<br/>
+ 3. intent 와 ACTION_NOTIFICATION_BROADCAST 속성을 이용해서 메인 엑티비트로 전달<br/>
+-MyAccessibilityService: 나와의 채팅을 받아온다.(테스트용)<br/>
+-MainActivity: MyNotificationService 나 MyAccessibilityService를 받아와서 알림을 받아와서 tts객체를 이용해서 읽어온다.<br/>
 # 결과물 
 
 -레이아웃<br/>
 <img src="https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/bdde89fb-7893-497e-bde6-5aabf335314b" width="200" height="400">
 <img src="https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/0f34f4df-1856-4b6c-8bf8-540fcda7d132" width="200" height="400">
 
--기능
+-기능<br/>
+test시 소리 잘 나옵니다<br/>
 ![KakaoTalk_20230629_211452401](https://github.com/gnunoo/library_system/assets/97424506/9a25d019-b911-4d25-a3c8-fce992e41213)
 
 
