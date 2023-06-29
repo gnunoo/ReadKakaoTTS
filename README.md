@@ -48,5 +48,8 @@
 <img src="https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/bdde89fb-7893-497e-bde6-5aabf335314b" width="200" height="400">
 <img src="https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/0f34f4df-1856-4b6c-8bf8-540fcda7d132" width="200" height="400">
 
+-기능
+![KakaoTalk_20230629_211452401](https://github.com/gnunoo/library_system/assets/97424506/9a25d019-b911-4d25-a3c8-fce992e41213)
+
 
 
