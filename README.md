@@ -35,7 +35,7 @@
 # 결과물 
 
 -레이아웃<br/>
-![image](https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/bdde89fb-7893-497e-bde6-5aabf335314b), ![image](https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/0f34f4df-1856-4b6c-8bf8-540fcda7d132)
+<img src="https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/bdde89fb-7893-497e-bde6-5aabf335314b" width="200" height="400">
 <img src="https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/0f34f4df-1856-4b6c-8bf8-540fcda7d132" width="200" height="400">
 
 
