@@ -10,8 +10,9 @@
 
 ![image](https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/e60037ae-48fe-4bf3-9151-d8f553249991)
 
-# 개발 툴 및 사용 
- <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
+# 개발 툴 및 사용 언어
+개발 툴: <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
+언어:   <img alt="kotlin" src ="https://img.shields.io/badge/kotlin-#7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=black"/>
 # 맡은 역할
 김연수: 리더 및 기능 구현<br/>
 -배속 기능 만들기<br/>
