@@ -11,7 +11,7 @@
 ![image](https://github.com/gnunoo/ReadKakaoTTS/assets/97424506/e60037ae-48fe-4bf3-9151-d8f553249991)
 
 # 개발 툴 및 사용 
-<img src="https://img.shields.io/badge/Android-#3DDC84?style=flat&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/androidstudio-#3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 # 맡은 역할
 김연수: 리더 및 기능 구현<br/>
 -배속 기능 만들기<br/>
